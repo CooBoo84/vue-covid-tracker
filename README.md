@@ -14,3 +14,5 @@ npm run serve
 ```
 npm run build
 ```
+
+![Screen-Vue-covid-tracker](https://github.com/CooBoo84/vue-covid-tracker/blob/main/screen.png)
